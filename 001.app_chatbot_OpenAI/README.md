@@ -1,4 +1,4 @@
-Este código implementa un **Chatbot personalizado** utilizando la API de OpenAI (GPT-4). Su función principal es actuar como un asistente de ventas o atención al cliente para un negocio textil, ya que carga un catálogo de productos y reglas de negocio específicas antes de iniciar la conversación.
+Este código implementa un **Chatbot personalizado** utilizando la API de OpenAI (GPT-4). Su función principal es actuar como un asistente de ventas o atención al cliente para un negocio de ventas de ropa deportiva, ya que carga un catálogo de productos y reglas de negocio específicas antes de iniciar la conversación.
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ productos y reglas de comportamiento.
 -   **Librerías:** `openai` (v1.0+).
 -   **Archivos Locales:**
     -   `clave_api.txt`: Archivo con la API Key de OpenAI.
-    -   `productos_textil.csv`: Catálogo de productos.
+    -   `ropa_deportiva.csv`: Catálogo de productos.
     -   `reglas.txt`: Directrices de comportamiento para el bot.
 
 ## Análisis del Código por Secciones
@@ -33,7 +33,7 @@ with open("clave_api.txt") as archivo:
     openai.api_key = archivo.readline().strip()
 
 # Carga del catálogo de productos
-with open("productos_textil.csv") as archivo:
+with open("ropa_deportiva.csv") as archivo:
     producto_csv = archivo.read()
 
 # Carga de las reglas de negocio
@@ -111,7 +111,7 @@ def main():
     reglas y los productos.
 3.  **Iteración:**
 
--   El usuario escribe una consulta (ej: \"¿Tienen camisas blancas?\").
+-   El usuario escribe una consulta (ej: \"¿Tienen polos deportivos?\").
 -   El bot consulta el `contexto` (donde están los productos).
 -   La API responde basándose en esos datos.
 -   La respuesta se guarda para que el bot \"recuerde\" lo dicho

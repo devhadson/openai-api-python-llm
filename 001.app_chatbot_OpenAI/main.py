@@ -7,7 +7,7 @@ import sys
 with open("clave_api.txt") as archivo:
     openai.api_key = archivo.readline()
 
-with open("productos_textil.csv") as archivo:
+with open("ropa_deportiva.csv") as archivo:
     producto_csv = archivo.read()
 
 with open("reglas.txt") as archivo:
