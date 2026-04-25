@@ -8,7 +8,7 @@ Desarrollo GenAI con OpenAI API y Python.
 1. App Chatbot personalizado para hacer pedidos: [001.app_chatbot_OpenAI](https://github.com/devhadson/openai-api-python-llm/tree/main/001.app_chatbot_OpenAI)
 - Su función principal es actuar como un asistente de ventas o atención al cliente para un negocio de ventas de ropa deportiva, ya que carga un catálogo de productos y reglas de negocio específicas antes de iniciar la conversación.
 - Esta implementación de **Chatbot personalizado** utiliza la API de OpenAI (GPT-4)
-- Documentación de la [Arquitectura](001.app_chatbot_OpenAI/ARCREADME.md)  y [código fuente](001.app_chatbot_OpenAI/README.md).
+- Documentación disponible de la [Arquitectura](001.app_chatbot_OpenAI/ARCREADME.md)  y [código fuente](001.app_chatbot_OpenAI/README.md).
 
 <hr>
 <h4 align="center"> Publicaciones en mis redes sociales y reposotorio GitHub</h4>
