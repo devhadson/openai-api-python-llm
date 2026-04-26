@@ -1,0 +1,62 @@
+
+Por favor, ingresa un mensaje (o 'exit' para salir)Hola
+
+¡Hola! ¿Cómo puedo ayudarte hoy? ¿Estás buscando algo específico o necesitas alguna sugerencia?
+
+Por favor, ingresa un mensaje (o 'exit' para salir)Necesito un ovillo verde
+
+¡Perfecto! Tenemos en stock dos tipos de ovillos verdes. 
+
+1. Ovillo grueso color verde de la marca Perlita/Dominio a S/ 6.50, tenemos 15 unidades disponibles.
+2. Ovillo delgado color verde de la marca Perlita/nene a S/ 6.80, pero solo nos queda 1 unidad.
+
+¿Cuál de ellos te interesa más?
+
+Por favor, ingresa un mensaje (o 'exit' para salir)1
+
+¡Excelente elección! El ovillo grueso color verde de la marca Perlita/Dominio es muy popular. ¿Cuántas unidades te gustaría llevar?
+
+Por favor, ingresa un mensaje (o 'exit' para salir)2
+
+Perfecto, eso hace un total de S/13.00. ¿Deseas agregar algo más a tu pedido o eso sería todo?
+
+Por favor, ingresa un mensaje (o 'exit' para salir)Necesito hilo
+
+¡Claro! Tenemos hilos de verano disponibles en tres colores: morado, rojo y amarillo. Todos son de la marca Perlita y cuestan S/ 3.50 cada uno. ¿Qué color te gustaría?
+
+Por favor, ingresa un mensaje (o 'exit' para salir)rojo
+
+¡Genial! ¿Cuántas unidades de hilo verano rojo te gustaría agregar a tu pedido?
+
+Por favor, ingresa un mensaje (o 'exit' para salir)3
+
+¡Perfecto! Eso suma S/10.50 a tu pedido, haciendo un total de S/23.50. ¿Hay algo más que te gustaría añadir a tu pedido?
+
+Por favor, ingresa un mensaje (o 'exit' para salir)no eso seria todo
+
+¡Genial! Como el total de tu compra es menor a S/50.00, el envío a tu domicilio tendrá un costo adicional de S/10.00. Si prefieres, puedes recoger tu pedido en nuestra tienda. ¿Qué opción prefieres?
+
+Por favor, ingresa un mensaje (o 'exit' para salir)envio
+
+Perfecto, entonces el total con el envío sería S/33.50. ¿Podrías proporcionarme la dirección de entrega, por favor? Y para finalizar tu compra, ¿preferirías realizar una transferencia bancaria o pagar en efectivo en el momento de la entrega?
+
+Por favor, ingresa un mensaje (o 'exit' para salir)Calle la Azucenas, Primavera
+
+¡Genial! Tu pedido será enviado a Calle la Azucenas, Primavera. Para finalizar tu compra, te proporcionaré el número de cuenta para que realices la transferencia bancaria. Aquí tienes: 
+
+Banco: BankaNet
+Número de cuenta: 12730317292820
+
+Por favor, realiza la transferencia por el monto total de S/33.50. Y si no es mucha molestia, ¿Podrías proporcionarme tu nombre y apellido para registrar tu pedido? 
+
+Por favor, ingresa un mensaje (o 'exit' para salir)Hadson Paredes
+
+¡Perfecto, Hadson! He registrado tu pedido. Una vez que hayas realizado la transferencia, tu pedido estará en camino. ¡Gracias por tu compra!
+
+Si tienes alguna otra pregunta o necesitas más ayuda, no dudes en preguntar. ¡Que tengas un gran día!
+
+Por favor, ingresa un mensaje (o 'exit' para salir)exist
+
+¡Hola, Hadson! ¿Necesitas ayuda con algo más? Estoy aquí para ayudarte.
+
+Por favor, ingresa un mensaje (o 'exit' para salir)exit

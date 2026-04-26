@@ -74,4 +74,4 @@ Su estructura se organiza en cuatro capas clave: la de Presentación, que gestio
 
 ---
 
-*Documentación elaborado por Hadson Paredes - 2026*
+*Documentación elaborado por [Hadson Paredes](https://www.linkedin.com/in/hadson-paredes/) - 2026*

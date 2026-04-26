@@ -118,3 +118,13 @@ def main():
     anteriormente.
 
 1.  **Cierre:** El proceso termina al escribir `exit`.
+
+## Resultado de la interacción
+
+La interacción se realizan desde el Visual Studio Code, es decir, aun no se tiene una capa de interfaz a nivel de usuario (sin UX/UI)
+
+![Descripción de la imagen](doc/exe-chat-openia-explicacion.png)
+
+---
+
+*Documentación elaborado por [Hadson Paredes](https://www.linkedin.com/in/hadson-paredes/) - 2026*
